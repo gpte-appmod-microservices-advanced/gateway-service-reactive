@@ -12,7 +12,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <version.vertx>3.5.3.redhat-00001</version.vertx>
     <version.vertx-maven-plugin>1.0.7</version.vertx-maven-plugin>
-    <version.fabric8-maven-plugin>3.5.28</version.fabric8-maven-plugin>
+    <version.fabric8-maven-plugin>4.1.0</version.fabric8-maven-plugin>
     <vertx.verticle>com.redhat.coolstore.gateway.verticle.MainVerticle</vertx.verticle>
   </properties>
   <dependencyManagement>
